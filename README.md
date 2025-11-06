@@ -15,7 +15,7 @@ It's my first pipeline done with my own hands.
 ## Libraries 📖
 - Kagglehub
 - Pandas
-- Sklearn
+- Scikit-learn
 - Pickle (python built-in module)
 
 ## How to run
